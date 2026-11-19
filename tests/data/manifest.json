@@ -1,0 +1,580 @@
+{
+ "base_seed": 20261115,
+ "sizes": [
+  500,
+  1000,
+  2000,
+  5000,
+  10000,
+  20000,
+  50000,
+  100000
+ ],
+ "sets_per_size": 5,
+ "kinds": [
+  "uniform",
+  "thin_band"
+ ],
+ "datasets": [
+  {
+   "kind": "uniform",
+   "n": 500,
+   "index": 0,
+   "seed": 20266115,
+   "file": "uniform_n500_0.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 500,
+   "index": 1,
+   "seed": 20266116,
+   "file": "uniform_n500_1.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 500,
+   "index": 2,
+   "seed": 20266117,
+   "file": "uniform_n500_2.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 500,
+   "index": 3,
+   "seed": 20266118,
+   "file": "uniform_n500_3.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 500,
+   "index": 4,
+   "seed": 20266119,
+   "file": "uniform_n500_4.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 1000,
+   "index": 0,
+   "seed": 20271115,
+   "file": "uniform_n1000_0.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 1000,
+   "index": 1,
+   "seed": 20271116,
+   "file": "uniform_n1000_1.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 1000,
+   "index": 2,
+   "seed": 20271117,
+   "file": "uniform_n1000_2.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 1000,
+   "index": 3,
+   "seed": 20271118,
+   "file": "uniform_n1000_3.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 1000,
+   "index": 4,
+   "seed": 20271119,
+   "file": "uniform_n1000_4.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 2000,
+   "index": 0,
+   "seed": 20281115,
+   "file": "uniform_n2000_0.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 2000,
+   "index": 1,
+   "seed": 20281116,
+   "file": "uniform_n2000_1.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 2000,
+   "index": 2,
+   "seed": 20281117,
+   "file": "uniform_n2000_2.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 2000,
+   "index": 3,
+   "seed": 20281118,
+   "file": "uniform_n2000_3.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 2000,
+   "index": 4,
+   "seed": 20281119,
+   "file": "uniform_n2000_4.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 5000,
+   "index": 0,
+   "seed": 20311115,
+   "file": "uniform_n5000_0.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 5000,
+   "index": 1,
+   "seed": 20311116,
+   "file": "uniform_n5000_1.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 5000,
+   "index": 2,
+   "seed": 20311117,
+   "file": "uniform_n5000_2.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 5000,
+   "index": 3,
+   "seed": 20311118,
+   "file": "uniform_n5000_3.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 5000,
+   "index": 4,
+   "seed": 20311119,
+   "file": "uniform_n5000_4.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 10000,
+   "index": 0,
+   "seed": 20361115,
+   "file": "uniform_n10000_0.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 10000,
+   "index": 1,
+   "seed": 20361116,
+   "file": "uniform_n10000_1.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 10000,
+   "index": 2,
+   "seed": 20361117,
+   "file": "uniform_n10000_2.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 10000,
+   "index": 3,
+   "seed": 20361118,
+   "file": "uniform_n10000_3.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 10000,
+   "index": 4,
+   "seed": 20361119,
+   "file": "uniform_n10000_4.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 20000,
+   "index": 0,
+   "seed": 20461115,
+   "file": "uniform_n20000_0.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 20000,
+   "index": 1,
+   "seed": 20461116,
+   "file": "uniform_n20000_1.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 20000,
+   "index": 2,
+   "seed": 20461117,
+   "file": "uniform_n20000_2.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 20000,
+   "index": 3,
+   "seed": 20461118,
+   "file": "uniform_n20000_3.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 20000,
+   "index": 4,
+   "seed": 20461119,
+   "file": "uniform_n20000_4.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 50000,
+   "index": 0,
+   "seed": 20761115,
+   "file": "uniform_n50000_0.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 50000,
+   "index": 1,
+   "seed": 20761116,
+   "file": "uniform_n50000_1.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 50000,
+   "index": 2,
+   "seed": 20761117,
+   "file": "uniform_n50000_2.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 50000,
+   "index": 3,
+   "seed": 20761118,
+   "file": "uniform_n50000_3.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 50000,
+   "index": 4,
+   "seed": 20761119,
+   "file": "uniform_n50000_4.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 100000,
+   "index": 0,
+   "seed": 21261115,
+   "file": "uniform_n100000_0.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 100000,
+   "index": 1,
+   "seed": 21261116,
+   "file": "uniform_n100000_1.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 100000,
+   "index": 2,
+   "seed": 21261117,
+   "file": "uniform_n100000_2.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 100000,
+   "index": 3,
+   "seed": 21261118,
+   "file": "uniform_n100000_3.txt"
+  },
+  {
+   "kind": "uniform",
+   "n": 100000,
+   "index": 4,
+   "seed": 21261119,
+   "file": "uniform_n100000_4.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 500,
+   "index": 0,
+   "seed": 120266115,
+   "file": "thin_band_n500_0.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 500,
+   "index": 1,
+   "seed": 120266116,
+   "file": "thin_band_n500_1.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 500,
+   "index": 2,
+   "seed": 120266117,
+   "file": "thin_band_n500_2.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 500,
+   "index": 3,
+   "seed": 120266118,
+   "file": "thin_band_n500_3.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 500,
+   "index": 4,
+   "seed": 120266119,
+   "file": "thin_band_n500_4.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 1000,
+   "index": 0,
+   "seed": 120271115,
+   "file": "thin_band_n1000_0.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 1000,
+   "index": 1,
+   "seed": 120271116,
+   "file": "thin_band_n1000_1.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 1000,
+   "index": 2,
+   "seed": 120271117,
+   "file": "thin_band_n1000_2.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 1000,
+   "index": 3,
+   "seed": 120271118,
+   "file": "thin_band_n1000_3.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 1000,
+   "index": 4,
+   "seed": 120271119,
+   "file": "thin_band_n1000_4.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 2000,
+   "index": 0,
+   "seed": 120281115,
+   "file": "thin_band_n2000_0.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 2000,
+   "index": 1,
+   "seed": 120281116,
+   "file": "thin_band_n2000_1.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 2000,
+   "index": 2,
+   "seed": 120281117,
+   "file": "thin_band_n2000_2.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 2000,
+   "index": 3,
+   "seed": 120281118,
+   "file": "thin_band_n2000_3.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 2000,
+   "index": 4,
+   "seed": 120281119,
+   "file": "thin_band_n2000_4.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 5000,
+   "index": 0,
+   "seed": 120311115,
+   "file": "thin_band_n5000_0.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 5000,
+   "index": 1,
+   "seed": 120311116,
+   "file": "thin_band_n5000_1.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 5000,
+   "index": 2,
+   "seed": 120311117,
+   "file": "thin_band_n5000_2.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 5000,
+   "index": 3,
+   "seed": 120311118,
+   "file": "thin_band_n5000_3.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 5000,
+   "index": 4,
+   "seed": 120311119,
+   "file": "thin_band_n5000_4.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 10000,
+   "index": 0,
+   "seed": 120361115,
+   "file": "thin_band_n10000_0.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 10000,
+   "index": 1,
+   "seed": 120361116,
+   "file": "thin_band_n10000_1.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 10000,
+   "index": 2,
+   "seed": 120361117,
+   "file": "thin_band_n10000_2.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 10000,
+   "index": 3,
+   "seed": 120361118,
+   "file": "thin_band_n10000_3.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 10000,
+   "index": 4,
+   "seed": 120361119,
+   "file": "thin_band_n10000_4.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 20000,
+   "index": 0,
+   "seed": 120461115,
+   "file": "thin_band_n20000_0.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 20000,
+   "index": 1,
+   "seed": 120461116,
+   "file": "thin_band_n20000_1.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 20000,
+   "index": 2,
+   "seed": 120461117,
+   "file": "thin_band_n20000_2.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 20000,
+   "index": 3,
+   "seed": 120461118,
+   "file": "thin_band_n20000_3.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 20000,
+   "index": 4,
+   "seed": 120461119,
+   "file": "thin_band_n20000_4.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 50000,
+   "index": 0,
+   "seed": 120761115,
+   "file": "thin_band_n50000_0.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 50000,
+   "index": 1,
+   "seed": 120761116,
+   "file": "thin_band_n50000_1.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 50000,
+   "index": 2,
+   "seed": 120761117,
+   "file": "thin_band_n50000_2.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 50000,
+   "index": 3,
+   "seed": 120761118,
+   "file": "thin_band_n50000_3.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 50000,
+   "index": 4,
+   "seed": 120761119,
+   "file": "thin_band_n50000_4.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 100000,
+   "index": 0,
+   "seed": 121261115,
+   "file": "thin_band_n100000_0.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 100000,
+   "index": 1,
+   "seed": 121261116,
+   "file": "thin_band_n100000_1.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 100000,
+   "index": 2,
+   "seed": 121261117,
+   "file": "thin_band_n100000_2.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 100000,
+   "index": 3,
+   "seed": 121261118,
+   "file": "thin_band_n100000_3.txt"
+  },
+  {
+   "kind": "thin_band",
+   "n": 100000,
+   "index": 4,
+   "seed": 121261119,
+   "file": "thin_band_n100000_4.txt"
+  }
+ ]
+}
